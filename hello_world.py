@@ -1,2 +1,6 @@
 print ("hello World")
-print ("ok")
+nome = giselle
+if nome == giselle:
+    print ("oi, Gi!")
+else:
+    print ("nhé")
